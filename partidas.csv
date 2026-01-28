@@ -1,0 +1,10 @@
+rodada,time_casa,time_fora,gols_casa,gols_fora
+1,Flamengo,Palmeiras,2,5
+1,São Paulo,Corinthians,1,1
+1,Grêmio,Internacional,0,2
+2,Palmeiras,São Paulo,3,0
+2,Corinthians,Flamengo,0,1
+2,Internacional,Grêmio,2,2
+3,Flamengo,São Paulo,3,2
+3,Palmeiras,Corinthians,1,0
+3,Grêmio,Internacional,1,1
